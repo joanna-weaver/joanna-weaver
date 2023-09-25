@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joanna-weaver
 - 👀 I’m interested in building apps
-- 🌱 I’m currently learning how to code, as a 45 year old software illiterate
+- 🌱 I’m currently learning how to code, as a 45 year old coding illiterate
 - 💞️ I’m not looking to collaborate yet
 - 📫 How to reach me ... joanna.weaver@icloud.com
 
